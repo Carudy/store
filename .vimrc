@@ -88,6 +88,8 @@ endfunc
 
 map zz :q!<CR>
 imap <S-e> <ESC>
+map cc @a
+map cx @b
 
 
 Bundle 'Valloric/YouCompleteMe'
